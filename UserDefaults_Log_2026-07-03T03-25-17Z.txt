@@ -80,8 +80,8 @@ Bundle ID : com.clevertap.CTSachinWrapperiOSNative
     gender = "custom_gender";
 }
   __leanplum_attributes = {length = 528, bytes = 0xe74693ba 422cb23e c3fda92d c1270103 ... a16668df aff2d01a }
-  __leanplum_ct_account_key = TEST-RZ7-785-5W7Z
-  __leanplum_ct_account_token = TEST-5ba-a12
+  __leanplum_ct_account_key = 
+  __leanplum_ct_account_token = 
   __leanplum_ct_hash_key = 516ecd84f27aca1763d1cd3b37d13eedb27e716bfb7cc17ae6519678c5a44475
   __leanplum_logged_in_user_id = sachin_user_001
   __leanplum_migration_state = lp+ct
