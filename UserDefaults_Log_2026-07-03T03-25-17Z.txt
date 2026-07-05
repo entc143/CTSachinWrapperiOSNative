@@ -1,0 +1,150 @@
+============================================================
+CTSachinWrapperiOSNative — UserDefaults Log
+Timestamp : 2026-07-03T03-25-17Z
+Bundle ID : com.clevertap.CTSachinWrapperiOSNative
+============================================================
+
+>>> BEFORE DELETE (57 keys) <<<
+  ACDMonthlyAnalyticsLastPosted = 804686310.774465
+  AKLastIDMSEnvironment = 0
+  AKLastLocale = en_IN
+  ActivePrototypingEnabled = 0
+  AddingEmojiKeybordHandled = 1
+  AppleKeyboards = (
+    "en_IN@sw=QWERTY;hw=Automatic;ml=100",
+    "hi_Latn@sw=QWERTY;hw=Automatic;ml=100",
+    "hi-Translit@sw=QWERTY-Hindi;hw=Automatic;ml=100",
+    "emoji@sw=Emoji"
+)
+  AppleKeyboardsExpanded = 1
+  AppleLanguages = (
+    "en-IN",
+    "hi-IN"
+)
+  AppleLanguagesSchemaVersion = 5400
+  AppleLocale = en_IN
+  ApplePasscodeKeyboards = (
+    "en_IN@ml=100",
+    "hi_Latn@ml=100",
+    "hi-Translit@ml=100",
+    emoji
+)
+  ClearPrototypeCachesForMigration = 0
+  ClearSettingsArchivesForMigration = 0
+  MultiWindowEnabled = 0
+  NSHyphenatesAsLastResort = 1
+  NSInterfaceStyle = macintosh
+  NSLanguages = (
+    "en-001"
+)
+  NSUsesCFStringTokenizerForLineBreaks = 1
+  NSUsesTextStylesForLineBreaks = 1
+  PKLogNotificationServiceResponsesKey = 0
+  PrototypeSettingsEnabled = 0
+  RemotePrototypingEnabled = 0
+  RingerButtonShowsUI = 0
+  RingerSwitchShowsUI = 0
+  TestRecipeEatsRingerButton = 0
+  TestRecipeEatsRingerSwitch = 0
+  TestRecipeEatsVolumeDown = 0
+  TestRecipeEatsVolumeUp = 0
+  VolumeDownShowsUI = 0
+  VolumeUpShowsUI = 1
+  WizRocketTEST-RZ7-785-5W7Z:-h8CA2AA23-611F-4CF0-87CD-701933EE0CAC:inapp_notifs = <ct<N7bQbbw9WBeYL+n2nUZNUbGb/vR2c/AN8XycfXfItdaLJoEHN3cDFXfoRU08prkzbt32Q++lbdOUqYS4hDxXF5r2E9NChmRWZXP0+IVrAnnZG7lqq/gjZv+0YIScb/V6gvQCrm3LHBriUfy1nZ4EFwaSZNzXdgJAsWZxwlIX365FPWtq7AJARPawF+XUMG9tZEZCYJ4tG2U9U19QbJbSJOv7OCkbfP5HoqsOxpc39HK6rm9N2bnrjuZFW6pnQjmnI6xBnM5zIYpFBuoA2Gnxavu3yC5rZfw3N3IRTBb+OtVE01K7Ge3feQTHtKJ6iloDREUNYZ7z/QzccLtio7QphOwfQc/HmU1uyzvD0aeW9HeD/CCqhyGleg==>ct>
+  WizRocketTEST-RZ7-785-5W7Z:CLTAP_FIRST_TS_KEY = 1783007598
+  WizRocketTEST-RZ7-785-5W7Z:CLTAP_LAST_TS_KEY = 1783049059
+  WizRocketTEST-RZ7-785-5W7Z:CachedIdentities = Identity
+  WizRocketTEST-RZ7-785-5W7Z:deviceId = -26fd8569d8ca45e3bb3a6727856774f2
+  WizRocketTEST-RZ7-785-5W7Z:imc_max:-h8CA2AA23-611F-4CF0-87CD-701933EE0CAC = 1
+  WizRocketTEST-RZ7-785-5W7Z:istc_inapp:-h8CA2AA23-611F-4CF0-87CD-701933EE0CAC = 0
+  WizRocketTEST-RZ7-785-5W7Z:istmcd_inapp:-h8CA2AA23-611F-4CF0-87CD-701933EE0CAC = 10
+  WizRocketTEST-RZ7-785-5W7Z:lastSessionTime = 1783049058
+  WizRocketTEST-RZ7-785-5W7Z:local_cache_expiry = 1200
+  WizRocketTEST-RZ7-785-5W7Z:local_cache_last_sync = 1783007597
+  WizRocketarp:TEST-RZ7-785-5W7Z:-26fd8569d8ca45e3bb3a6727856774f2 = {
+    av = "1.0";
+    "d_ts" = 0;
+    dh = 0;
+    hgt = "5.36";
+    "i_n" = Zm9qfQQD;
+    id = "RZ7-785-5W7Z";
+    "j_n" = "Zw==";
+    "j_s" = "{}";
+    "r_ts" = 1783049059;
+    v = 2;
+    wdt = "2.47";
+}
+  WizRocketdevice_token = 
+  __leanplum_attribute_mappings = {
+    age = "custom_age";
+    gender = "custom_gender";
+}
+  __leanplum_attributes = {length = 528, bytes = 0xe74693ba 422cb23e c3fda92d c1270103 ... a16668df aff2d01a }
+  __leanplum_ct_account_key = TEST-RZ7-785-5W7Z
+  __leanplum_ct_account_token = TEST-5ba-a12
+  __leanplum_ct_hash_key = 516ecd84f27aca1763d1cd3b37d13eedb27e716bfb7cc17ae6519678c5a44475
+  __leanplum_logged_in_user_id = sachin_user_001
+  __leanplum_migration_state = lp+ct
+  __leanplum_region_code = eu1
+  __leanplum_uuid = E659AF23-115F-4139-AE60-A4D2AE7522CD
+  __leanplum_variables = {length = 51440, bytes = 0xad6f039a b02088c1 3fa334c7 960c786d ... c291e130 4df87c11 }
+  __leanplum_version = 6.6.1
+  com.apple.gms.availability.key = (
+    0
+)
+  com.apple.gms.availability.unifiedReasons = {length = 107, bytes = 0x7b22636f 6d2e6170 706c652e 53657474 ... 3a7b7d7d 7d7d5d7d }
+  com.apple.gms.availability.useCaseReadiness = {length = 2, bytes = 0x7b7d}
+
+>>> AFTER DELETE (33 keys) <<<
+  ACDMonthlyAnalyticsLastPosted = 804686310.774465
+  AKLastIDMSEnvironment = 0
+  AKLastLocale = en_IN
+  ActivePrototypingEnabled = 0
+  AddingEmojiKeybordHandled = 1
+  AppleKeyboards = (
+    "en_IN@sw=QWERTY;hw=Automatic;ml=100",
+    "hi_Latn@sw=QWERTY;hw=Automatic;ml=100",
+    "hi-Translit@sw=QWERTY-Hindi;hw=Automatic;ml=100",
+    "emoji@sw=Emoji"
+)
+  AppleKeyboardsExpanded = 1
+  AppleLanguages = (
+    "en-IN",
+    "hi-IN"
+)
+  AppleLanguagesSchemaVersion = 5400
+  AppleLocale = en_IN
+  ApplePasscodeKeyboards = (
+    "en_IN@ml=100",
+    "hi_Latn@ml=100",
+    "hi-Translit@ml=100",
+    emoji
+)
+  ClearPrototypeCachesForMigration = 0
+  ClearSettingsArchivesForMigration = 0
+  MultiWindowEnabled = 0
+  NSHyphenatesAsLastResort = 1
+  NSInterfaceStyle = macintosh
+  NSLanguages = (
+    "en-001"
+)
+  NSUsesCFStringTokenizerForLineBreaks = 1
+  NSUsesTextStylesForLineBreaks = 1
+  PKLogNotificationServiceResponsesKey = 0
+  PrototypeSettingsEnabled = 0
+  RemotePrototypingEnabled = 0
+  RingerButtonShowsUI = 0
+  RingerSwitchShowsUI = 0
+  TestRecipeEatsRingerButton = 0
+  TestRecipeEatsRingerSwitch = 0
+  TestRecipeEatsVolumeDown = 0
+  TestRecipeEatsVolumeUp = 0
+  VolumeDownShowsUI = 0
+  VolumeUpShowsUI = 1
+  com.apple.gms.availability.key = (
+    0
+)
+  com.apple.gms.availability.unifiedReasons = {length = 107, bytes = 0x7b22636f 6d2e6170 706c652e 53657474 ... 3a7b7d7d 7d7d5d7d }
+  com.apple.gms.availability.useCaseReadiness = {length = 2, bytes = 0x7b7d}
+
+============================================================
