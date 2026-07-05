@@ -24,13 +24,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use Development key in DEBUG builds; swap to Production key for App Store builds
         #if DEBUG
             Leanplum.setAppId(
-                "app_HXMTd0HjBpqxZtpIuCMQDcDtpWY1rKhN2X1QxJaC5Fo",
-                developmentKey: "dev_SZE2XYsrBN5a8550ntXdIlEH9EYxVXIi6I8u3PRnlpo"
+                "app_",
+                developmentKey: "dev_"
             )
         #else
             // TODO: Replace with your Production key before App Store submission
             Leanplum.setAppId(
-                "app_HXMTd0HjBpqxZtpIuCMQDcDtpWY1rKhN2X1QxJaC5Fo",
+                "app_",
                 withProductionKey: "YOUR_PRODUCTION_KEY_HERE"
             )
         #endif
